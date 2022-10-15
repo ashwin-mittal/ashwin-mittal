@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 <h1 align="center">Hi 👋, I'm Ashwin Mittal</h1>
 <h3 align="center">A Computer Science Research Undergraduate from IIIT Hyderabad</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=ashwin-mittal alt=ashwin-mittal/> </p>
