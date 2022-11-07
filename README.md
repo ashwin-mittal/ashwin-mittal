@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href=https://fb.com/iammittalashwin target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="ashwin-mittal" height="20" width="20" /></a>
 </p>
 <p align="center">
-  💬 Ask me about <b>React, Python, C++, C etc.</b>
+  💬 Ask me about <b>Data Science, React, Python, C++, C etc.</b>
 </p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ashwin-mittal&show_icons=true alt=ashwin-mittal /> 
 </p>
