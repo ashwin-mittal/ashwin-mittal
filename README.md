@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ashwin Mittal</h1>
+<h2 align="center">Trading, Data, and AI Systems</h2>
 <h3 align="center">A Computer Science Research Graduate from IIIT Hyderabad</h3>
 <p align="center">
-  💬 Ask me about <b>Data Science, React, Python, C++, C etc.</b>
+  💬 Ask me about <b>Data Science, React, Python, C++, C, etc.</b>
 </p>
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src=https://github-readme-stats.vercel.app/api?username=ashwin-mittal&show_icons=true alt=ashwin-mittal /> 
 </p>
