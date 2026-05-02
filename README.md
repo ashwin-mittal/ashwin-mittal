@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ashwin Mittal</h1>
-<h2 align="center">Trading, Data, and AI Systems</h2>
+<h2 align="center">High-Frequency Trading, Data, and AI Systems</h2>
 <h3 align="center">A Computer Science Research Graduate from IIIT Hyderabad</h3>
 <p align="center">
   💬 Ask me about <b>Data Science, Algorithmic Trading, React, Python, C++, System Design</b>
